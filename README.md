@@ -1,4 +1,4 @@
-# Awesome_LLM
+# Awesome LLM
 
 ## Vector databases
 

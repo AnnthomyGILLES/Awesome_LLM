@@ -1,11 +1,14 @@
 
-# Awesome_LLM
+# Awesome LLM - Personal review
 
 ## Vector databases
 
  - [Vector databases (Part 1): What makes each one different?](https://thedataquarry.com/posts/vector-db-1/)
  - [Vector databases (Part 2): Understanding their internals](https://thedataquarry.com/posts/vector-db-1/)
 	 - The article delves into the rising significance of vector databases in the era of Large Language Models (LLMs) like ChatGPT. While LLMs can generate coherent text, they sometimes produce inaccurate results. Vector databases, which store data as vectors, can be combined with LLMs to provide more accurate and up-to-date information. The piece also touches on the technical aspects of vector databases, including embeddings, similarity computation, indexing, and the potential of hybrid search systems that combine traditional keyword and vector searches.
+
+## Architecture & Development
+ - [Building Scalable Large Language Model (LLM) Apps](https://ai.plainenglish.io/building-scalable-large-language-model-llm-apps-509894bc7f6a)
 	
 ## LLMs Limitations & Challenges
 

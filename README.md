@@ -13,7 +13,7 @@
 ### Transformer and Attention
 - [À la découverte du Transformer | Le Data Scientist](https://ledatascientist.com/a-la-decouverte-du-transformer/)
 - [Transformer’s Encoder-Decoder](https://kikaben.com/transformers-encoder-decoder/)
-- [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html): Le modèle Transformer de "Attention is All You Need" a révolutionné les tâches NLP. Cet article propose une implémentation du papier, composée de 400 lignes de code.
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html): The Transformer model from "Attention is All You Need" has revolutionized NLP tasks. This article provides a streamlined, annotated implementation of the paper, consisting of 400 lines of code.
 
 	
 ## LLMs Limitations & Challenges

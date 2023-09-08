@@ -28,4 +28,10 @@
  - [All You Need to Know to Build Your First LLM App](https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac)
 	 - Integrating Open Source LLMs and LangChain for Free Generative Question Answering (No API Key required)
 
-
+## Transformers
+### For Computer Vision
+### For Time Series
+- [[Paper] Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504)
+- [[Paper] Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/abs/1912.09363)
+- [Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](https://huggingface.co/blog/autoformer)
+The article discusses the effectiveness of Transformers for Time Series Forecasting, referencing the award-winning Informer model and the newer Autoformer model. Empirical evidence suggests that Transformers outperform the simple linear model, DLinear, contrary to some claims.

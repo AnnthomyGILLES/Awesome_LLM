@@ -3,6 +3,8 @@
 ## Background
 - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [Primers • Overview of Large Language Models](https://vinija.ai/models/LLM/)
+
 ## Vector databases
  - [Vector databases (Part 1): What makes each one different?](https://thedataquarry.com/posts/vector-db-1/)
  - [Vector databases (Part 2): Understanding their internals](https://thedataquarry.com/posts/vector-db-1/): The article delves into the rising significance of vector databases in the era of Large Language Models (LLMs) like ChatGPT. While LLMs can generate coherent text, they sometimes produce inaccurate results. Vector databases, which store data as vectors, can be combined with LLMs to provide more accurate and up-to-date information. The piece also touches on the technical aspects of vector databases, including embeddings, similarity computation, indexing, and the potential of hybrid search systems that combine traditional keyword and vector searches.

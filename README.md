@@ -1,4 +1,5 @@
 
+
 # Awesome LLM - Personal review
 ## Background
 - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
@@ -28,6 +29,11 @@
 	 - Integrating Open Source LLMs and LangChain for Free Generative Question Answering (No API Key required)
  - [All You Need to Know to Build Your First LLM App](https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac)
 	 - Integrating Open Source LLMs and LangChain for Free Generative Question Answering (No API Key required)
+- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+	- This post consists of three parts.
+		- Part 1 discusses the key challenges of productionizing LLM applications and the solutions that I’ve seen.
+		- Part 2 discusses how to compose multiple tasks with control flows (e.g. if statement, for loop) and incorporate tools (e.g. SQL executor, bash, web browsers, third-party APIs) for more complex and powerful applications.
+		- Part 3 covers some of the promising use cases that I’ve seen companies building on top of LLMs and how to construct them from smaller tasks.
 ## Transformers
 ### For Computer Vision
 ### For Time Series
@@ -35,6 +41,7 @@
 - [[Paper] Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/abs/1912.09363)
 - [Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](https://huggingface.co/blog/autoformer)
 The article discusses the effectiveness of Transformers for Time Series Forecasting, referencing the award-winning Informer model and the newer Autoformer model. Empirical evidence suggests that Transformers outperform the simple linear model, DLinear, contrary to some claims.
+
 ## Applied LLMs
 ### in medicine
  - [Large language models in medicine: the potentials and pitfalls](https://arxiv.org/abs/2309.00087): The paper explores the potential of large language models (LLMs) like ChatGPT in medicine. While they show promise in tasks like patient queries and medical documentation, they also have challenges like biases and privacy concerns. Solutions include domain-specific models and human oversight. The paper details LLM technicalities, provides guidance on medical applications, and emphasizes the need for rigorous evaluation. Healthcare professionals are urged to stay informed about LLM advancements.
